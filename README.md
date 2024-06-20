@@ -9,3 +9,8 @@
 3.  Tulas Remote program: pay remote workers $10k to relocate to Tulsa, OK for at least one year, and provides a working space, integration into the local community and entrepreneurial ecosystem, and housing assistance.
 -Launched in 2019 to attract individuals with high economic potential to the city, Tulsa Remote received over 20,000 application and relocated nearly 2000 individuals by mid-2023, with 75% staying at least two year
 
+4. Mixed-methods approach: a survey to measure remote workers' pre- and post-Tulsa remote behaviors and work/socioeconomic characteristics that would reflect potentially location-specific attributes, as well as the willingness to stay in an area.
+-Difference0in-differences design to estimate the impact of Tulsa Remote on its participants, comparing changes within treated individuals before and after the Tulsa Remote program to changes within a variety of "near-treated" individuals over the same time frame
+-First benchmark group: individuals who were "rejected applicants" to Tulsa Remote
+-Second benchmark group: individuals who applied and were accepted by the Tulsa Remote program but eventually declined the opportunity to move, who are "near-Tulsa remoters"
+-
